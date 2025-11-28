@@ -1,4 +1,4 @@
-# Player Intelligence System - CPE342 ML
+# Player Intelligence System - CPE342 ML05
 
 A comprehensive machine learning system for gaming industry applications, implementing five core tasks: anti-cheat detection, player segmentation, spending prediction, game title detection, and account security monitoring.
 
@@ -141,7 +141,7 @@ pip install imbalanced-learn kaggle
 
 ## 📄 License
 
-This project is developed for educational purposes as part of CPE342 Machine Learning coursework.
+This project is developed for educational purposes as part of CPE342 Machine Learning coursework, CPE KMUTT.
 
 ## 🤝 Contributing
 
